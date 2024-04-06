@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Hello there! 👋<br><br> I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</p>&nbsp;
+<h1><p align="center">Hello there! 👋</h1><br><br> I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</p>&nbsp;
 <br><br><br>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🎓 Student enthusiast exploring the realms of programming.<br></ul>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>💻 Passionate about Java, Python, HTML, CSS, and JavaScript.<br></ul>
