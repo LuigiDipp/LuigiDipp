@@ -3,7 +3,7 @@
 
 
 <p align="center">Hello there! 👋<br><br> I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</p>&nbsp;
-
+<br><br><br><br><br>
 🎓 Student enthusiast exploring the realms of programming.<br>
 💻 Passionate about Java, Python, HTML, CSS, and JavaScript.<br>
 🌱 Constantly learning and improving my skills in coding.<br>
