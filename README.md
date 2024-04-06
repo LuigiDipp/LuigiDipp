@@ -4,10 +4,10 @@
 
 <p align="center">Hello there! 👋<br><br> I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
+🎓 Student enthusiast exploring the realms of programming.
+💻 Passionate about Java, Python, HTML, CSS, and JavaScript.
+🌱 Constantly learning and improving my skills in coding.
+🚀 Excited to collaborate and contribute to innovative projects.
  
  &nbsp;
  &nbsp;
