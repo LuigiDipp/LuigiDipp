@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center"><h1>Hello there!</h1> 👋. <br> I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</p>&nbsp;
+<p align="center">Hello there! 👋<br><br> I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
