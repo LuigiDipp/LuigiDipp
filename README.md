@@ -2,8 +2,8 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<h1><p align="center">Hello there! I am using Whatsapp! 👋</h1> <h3 align="center">I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</h3></p>&nbsp;
-<br><br><br>
+<h1><p align="center">Hello there! 👋</h1> <h3 align="center">I'm Luigi, a budding student diving into the fascinating world of programming languages like Java, Python, HTML, CSS, and JavaScript. I'm thrilled to share my journey with you as I embark on this exciting learning adventure.</h3></p>&nbsp;
+<br>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🎓 Student enthusiast exploring the realms of programming.<br></ul>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>💻 Passionate about Java, Python, HTML, CSS, and JavaScript.<br></ul>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🌱 Constantly learning and improving my skills in coding.<br></ul>
