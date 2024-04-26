@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://as1.ftcdn.net/v2/jpg/05/65/19/78/1000_F_565197825_ZxCAYEslysSiRPgmdspsUmPeUCRavutZ.jpg"/>
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://img.freepik.com/premium-photo/golden-retriever-dog-wearing-sunglasses-beach_900958-12916.jpg"/>
 &nbsp;&nbsp;&nbsp;
 
 
