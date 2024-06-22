@@ -2,12 +2,12 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<h1><p align="center">Hello world! 👋</h1> <h3 align="center">I'm Luigi, a budding student diving into the fascinating world of programming languages.</h3></p>&nbsp;
+<h1><p align="center">Hello, I'm Luigi! 👋</h1>
 <br>
-<ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🎓 Student enthusiast exploring the realms of programming.<br></ul>
-<ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>💻 Passionate about Java, Python, HTML, CSS, and JavaScript.<br></ul>
+<ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🎓 A budding student diving into the fascinating world of programming languages..<br></ul>
+<ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>💻 Passionate about Java, Python and JavaScript.<br></ul>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🌱 Constantly learning and improving my skills in coding.<br></ul>
-<ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🚀 Excited to collaborate and contribute to innovative projects.<br></ul>
+<ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🚀 Excited to innovative the area.<br></ul>
  
  &nbsp;
  &nbsp;
