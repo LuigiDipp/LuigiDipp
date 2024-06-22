@@ -27,5 +27,4 @@
 #### Studying in this moment:
 
 ![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
